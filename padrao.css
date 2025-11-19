@@ -1,0 +1,104 @@
+body
+{
+    background-color:black;
+}
+
+.botao
+{
+color:black;
+background-color:grey;
+    width:150px;
+    padding:13px 30px;
+    border:none;
+    font-weight:bold;
+    font-size:15px;
+    text-align:center;
+    text-decoration:none;
+    border-radius:20px;
+    opacity:0.9;
+    display:in  line-block;
+}
+
+h1
+{
+color:white;
+font-size:60px;
+font-family:verdana;
+text-align:center;
+background-color:grey;
+text-shadow: 6px 4px 3px black;
+}   
+
+h2
+{
+color:white;
+font-size:30px;
+font-family:verdana;
+text-align:justify;
+}    
+
+h3
+{
+  color:white;
+font-size:27px; 
+text-align:justify;  
+}
+
+h4
+{
+color:white;
+font-size:20px; 
+text-align:justify;    
+}
+
+h5
+{
+color:white;
+font-size:60px;
+font-family:verdana;
+text-align:center;
+text-shadow: 6px 4px 3px #363636;
+}   
+
+h6
+{
+color:white;
+font-size:40px;
+font-family:verdana;
+text-align:center;
+text-shadow: 6px 4px 3px #363636;   
+}
+
+
+table
+{
+width:70%;
+height:30%;
+background-color:grey;
+}
+
+table2
+{
+
+}
+
+
+th
+{
+color:white;
+font-size:20px;
+font-family:verdana;
+background-color:grey;    
+font-weight:bold;
+}
+    
+td
+{
+color:black;
+font-size:15px;
+font-family:verdana;
+text-align:center;
+font-style:italic;
+}    
+
+    
